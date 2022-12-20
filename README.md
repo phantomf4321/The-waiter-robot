@@ -7,6 +7,27 @@ Implementation of artificial intelligence search algorithms for robot movement o
 
 ## how to run
 
+run A*:
 ```
 python3 run.py a_star
+```
+
+run DFS:
+```
+python3 run.py dfs
+```
+
+run BFS:
+```
+python3 run.py bfs
+```
+
+run IDS:
+```
+python3 run.py ids
+```
+
+run UCS:
+```
+python3 run.py ucs
 ```
